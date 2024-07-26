@@ -91,7 +91,7 @@ If you'd like to keep track of your progress, feel free to use the checklist bel
 - [ ] kitties
 - [ ] puppers
 - [ ] club
-- [ ] mods
+- [ <>] mods
 - [ ] cakes
 - [ ] classrooms
 - [ ] books

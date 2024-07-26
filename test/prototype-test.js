@@ -25,7 +25,7 @@ const {
 
 describe("PROTOTYPES", () => {
   describe("Kitty Prompts", () => {
-    it.skip("orangeKittyNames", () => {
+    it("orangeKittyNames", () => {
       const e = kittyPrompts.orangePetNames(kitties);
 
       expect(e).to.deep.equal(["Tiger", "Snickers"])
@@ -147,7 +147,7 @@ describe("PROTOTYPES", () => {
   });
 
   describe("Mod Prompts", () => {
-    it.skip("studentsPerMod", () => {
+    it("studentsPerMod", () => {
       const e = modPrompts.studentsPerMod();
 
       expect(e).to.deep.equal([{
